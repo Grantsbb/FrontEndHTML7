@@ -1,6 +1,6 @@
-# FrontEndHTML5
+# FrontEndHTML7
 
-Navbar, Button Group, Bootstrap Grid, Utility Classes, and Form all done by Nathan.  
-CSS Cleanup, Footer Edit, Cards, and README done by Grant.  
+Theme toggle, slideshow hover, for looping chips, storing theme preference locally done by Nathan.  
+Play/pause, Image Slideshow, JSON caption loading, styled media control buttons done by Grant.  
 
-Nano approved.  
+Bestest Boy Nano approved.  

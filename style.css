@@ -187,3 +187,28 @@ footer {
   border: 1px solid #58a6ff;
   border-radius: 8px;
 }
+
+[data-theme="light"] {
+    --bg-deep: #f0f4f8;
+    --bg-panel: #ffffff;
+    --bg-callout: #e2e8f0;
+    --border-dim: #cbd5e0;
+    --text-bright: #1a202c;
+    --text-dimmer: #4a5568;
+}
+
+[data-theme="light"] body {
+    background-color: #f0f4f8;
+    color: #1a202c;
+}
+
+[data-theme="light"] header,
+[data-theme="light"] footer,
+[data-theme="light"] section,
+[data-theme="light"] .card,
+[data-theme="light"] aside,
+[data-theme="light"] blockquote {
+    background-color: #ffffff;
+    border-color: #cbd5e0;
+    color: #1a202c;
+}
